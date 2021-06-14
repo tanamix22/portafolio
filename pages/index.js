@@ -19,7 +19,7 @@ const index = () => {
                 />
               </div>
               <div className="col-md-8">
-                <h1>Jonnathan Reyes</h1>
+                <h1>Jonnathan Reyes Garcia</h1>
                 <h3>FrontEnd Developer</h3>
                 <p>
                   Front-end developer who want to explore every tech stack
